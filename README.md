@@ -78,5 +78,3 @@ MIT License - See [LICENSE](LICENSE) for details.
 - Repository maintained by **1337-x0**.
 
 ```
-
----
