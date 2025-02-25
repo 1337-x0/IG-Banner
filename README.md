@@ -68,7 +68,7 @@ This tool is for **educational purposes only**. Use it responsibly and at your o
 
 ## License 📜
 
-MIT License - See [LICENSE](LICENSE) for details.
+GNU License - See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -76,5 +76,3 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 - Developed by **Q4R1**.
 - Repository maintained by **1337-x0**.
-
-```
